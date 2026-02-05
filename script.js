@@ -1,5 +1,6 @@
 // DOM Elements
 const saveFlashcardBtn = document.getElementById("saveFlashcardBtn");
+const flashcardsContainer = document.getElementById("flashcardsContainer");
 const statsDisplay = document.getElementById("statsDisplay");
 const closeStudyBtn = document.getElementById("closeStudy");
 const flipStudyCardBtn = document.getElementById("flipStudyCardBtn");

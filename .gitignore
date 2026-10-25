@@ -1,0 +1,17 @@
+# Environment and secret files
+.env
+.env.*
+*.pem
+*.key
+*.id_rsa
+*.id_rsa.pub
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node / Scratch
+node_modules/
+cognideck/

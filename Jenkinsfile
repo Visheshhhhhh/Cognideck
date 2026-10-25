@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKERHUB_CREDENTIALS_ID = 'dockerhub-credentials'
-        DOCKER_IMAGE_NAME = 'DOCKERHUB_USER/cognideck'
+        DOCKER_IMAGE_NAME = 'visheshshah20/cognideck'
     }
 
     stages {

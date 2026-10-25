@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cognideck
-        image: DOCKER_IMAGE_PLACEHOLDER
+        image: visheshshah20/cognideck:latest
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 80
